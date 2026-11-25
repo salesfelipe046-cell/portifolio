@@ -1,4 +1,4 @@
-# portifolio
+
 # Felipe Sales | Portfólio
 
 Portfólio pessoal desenvolvido como projeto acadêmico durante o curso de **Análise e Desenvolvimento de Sistemas**. O site apresenta minha trajetória, meus interesses, conhecimentos e objetivos na área de Tecnologia da Informação, com foco em **redes de computadores e infraestrutura**.
